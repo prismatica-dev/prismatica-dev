@@ -11,8 +11,7 @@
 ♡ browser: librewolf
 
 ❧ workstation
-♡ operating system: endeavouros
-♡ wm/de: kde plasma
+♡ operating system: endeavouros (kde)
 ♡ cpu: intel i7-12700F
 ♡ gpu: nvidia RTX 3060 12gb
 ♡ ram: 16gb DDR4
@@ -20,16 +19,14 @@
 ♡ total storage: ~10tb
 
 ❧ mobile
-♡ samsung galaxy s10+
+♡ samsung galaxy s10+ 1tb
 ♡ operating system: rooted /e/os
 ♡ root: magisk w/ LSPosed
-♡ ram: 12gb
-♡ storage: 1tb
 ♡ using adaway, afwall+ and pia
 
 ❧ other
-♡ raspberry pi 3b+
-♡ raspberry pi 4 4gb
+♡ raspberry pi 3b+ (pihole)
+♡ raspberry pi 4 4gb (minecraft server)
 ```
 
 #### ☙ links ❧
