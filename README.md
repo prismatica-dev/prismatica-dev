@@ -1,8 +1,8 @@
-<h3 align="center">/lily.software/ — C# FLOSS Software Developer</h3>
+<h3 align="center">/prismatica.dev/ — C# FLOSS Software Developer</h3>
 <p align="center">♡ she/her ♡ automation, open source and torrenting enthusiast ♡ certified DRM hater ♡ data hoarder ♡</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prismatica-dev&show_icons=true&bg_color=45,e96443,904e95&title_color=fff&text_color=fff&custom_title=lily.software+github+stats" height=150/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prismatica-dev&show_icons=true&bg_color=45,e96443,904e95&title_color=fff&text_color=fff&custom_title=prismatica.dev+github+stats" height=150/>
   <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prismatica-dev&layout=compact&bg_color=45,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&custom_title=most+used+languages" height=130/>
   <br><img src="https://komarev.com/ghpvc/?username=prismatica-dev&color=e96443&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=EndeavourOS&logo=archlinux&label=&color=d35f58&logoColor=white&labelColor=&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Raspberry+PI&logo=raspberrypi&label=&color=bd596c&logoColor=white&labelColor=&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=Librewolf&logo=firefoxbrowser&label=&color=a75481&logoColor=white&labelColor=&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?message=PIA&logo=privateinternetaccess&label=&color=904e95&&logoColor=white&labelColor=&style=for-the-badge"/>
 </div>
@@ -33,7 +33,7 @@
 ```
 
 #### ☙ links ❧
-♡ site: https://lily.software/<br>
+♡ site: https://prismatica.dev/<br>
 ♡ discord: [@dmbk#1464](https://discord.com)<br>
-♡ email: [contact@lily.software](mailto:contact@lily.software)<br>
+♡ email: [contact@prismatica.dev](mailto:contact@prismatica.dev)<br>
 ♡ github: https://github.com/prismatica-dev
