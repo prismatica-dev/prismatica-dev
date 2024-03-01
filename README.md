@@ -19,21 +19,11 @@
 ❧ workstation
 ♡ operating system: endeavouros (kde)
 ♡ specs: intel i7-12700F | nvidia rtx 3060 12gb | 16gb ddr4
-♡ ide: visual studio on revios 10 vm
-♡ total storage: ~10tb
-
-❧ mobile
-♡ samsung galaxy s10+ 1tb
-♡ operating system: rooted /e/os w/ magisk
-♡ using adaway, afwall+ and pia
-
-❧ other
-♡ raspberry pi 3b+ (pihole)
-♡ raspberry pi 4 4gb (minecraft server)
+♡ ide: visual studio community 2022 on atlasos 10 vm
 ```
 
 #### ☙ links ❧
 ♡ site: https://prismatica.dev/<br>
-♡ discord: [@dmbk#1464](https://discord.com)<br>
+♡ discord: [@prismatica.dev](https://discord.com)<br>
 ♡ email: [contact@prismatica.dev](mailto:contact@prismatica.dev)<br>
 ♡ github: https://github.com/prismatica-dev
