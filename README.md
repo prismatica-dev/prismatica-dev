@@ -15,9 +15,5 @@
 ♡ content streaming: self-hosted invidious
 ♡ vpn: private internet access (pia)
 ♡ browser: librewolf
-
-❧ workstation
-♡ operating system: endeavouros (kde)
-♡ specs: intel i7-12700F | nvidia rtx 3060 12gb | 16gb ddr4
-♡ ide: visual studio community 2022 on atlasos 10 vm
+♡ operating system: endeavouros w/ hyprland
 ```
